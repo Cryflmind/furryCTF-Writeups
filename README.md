@@ -1,5 +1,5 @@
-# furryCTF-WP
-这里存储着furryCTF的题解zwz
+# furryCTF Writeups
+这里存储着历届furryCTF的题解zwz
 
 ## furryCTF 2024寒假赛题解：  
 ### 博客题解（由各位师傅们提供）：
