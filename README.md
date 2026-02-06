@@ -4,7 +4,9 @@
 ## furryCTF 2025 高校联合新神赛题解：  
 官方题解（furryCTF部分）：https://fcnfx4l45efr.feishu.cn/wiki/JHJowCDz9iwEGwkTp3Hc9C8Hnif  
 官方题解（POFP战队部分）：https://dcntycecetdh.feishu.cn/wiki/W3m8wlCy4iDIqJkgCgjcGMzmnee  
-Messywind的题解：https://blog.messywind.top/posts/ctf-furryctf-2025/   
+Messywind师傅的题解：  
+赛前热身：https://blog.messywind.top/posts/ctf-furryctf-2025-%E7%83%AD%E8%BA%AB%E8%B5%9B/  
+正赛：https://blog.messywind.top/posts/ctf-furryctf-2025/   
 ### 其他资料  
 知乎评价贴：  
 赛前热身：https://www.zhihu.com/question/2001386257167696238  
@@ -15,7 +17,7 @@ Messywind的题解：https://blog.messywind.top/posts/ctf-furryctf-2025/
 官方WP（部分题目题解）:https://fcnfx4l45efr.feishu.cn/wiki/NG8Fwcz2liuJGAkBUuNclS3ln7c  
 netcat队题解：https://blog.sparrowhe.top/2025/01/15/furryctf-2024-wp  
 seloy队题解：https://www.seloy.cn/furryctf-writeup  
-Messywind的题解：https://blog.messywind.top/posts/misc-furryctf  
+Messywind师傅的题解：https://blog.messywind.top/posts/misc-furryctf  
 ### 视频题解（由出题人石灰提供）（附件见文件夹）：  
 [misc]过去的记忆：https://www.bilibili.com/video/BV1h1c6etExk  
 [web]彩蛋：https://www.bilibili.com/video/BV1arc6ecEf8  
